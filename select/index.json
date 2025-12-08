@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "EGOIST『咲かせや咲かせ』Original Movie（劇場中編アニメ－ション『甲鉄城のカバネリ 海門決戦』主題歌）",
+  "base_artist": "EGOIST",
+  "createdAt": "2025-12-08T14:07:38.586881Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EGOIST   Departures~あなたにおくるアイの歌",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_EGOIST_Departures~あなたにおくるアイの歌_EGOIST.txt"
+    }
+  ]
+}
